@@ -2,6 +2,7 @@
 
 
 [شرح التركيب](#emotes)
+
 1- في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
 1- In your stream animation script, add the files in the
 2- قم بأضافة الأكواد التي في الأسفل في المسار المحدد
