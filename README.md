@@ -1,0 +1,2 @@
+# sqq-emote
+emote Salute
