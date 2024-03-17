@@ -1,4 +1,4 @@
-# Emotes
+# Emotes Salute
 
 [Discord](https://discord.gg/PWnxxHcpbr)
 
