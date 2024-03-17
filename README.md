@@ -1,15 +1,20 @@
 # Emotes Salute
 
+
+- Warning: The animation was not created by us. We have only re-published it and attached an explanation of how to link it <br>
+ تنبية لم يتم صنع الانميشن من قبلنا فقط قمنا بإعادة نشره و أرفاق شرح توضيحي لكيفية ربطه
+
 [Discord](https://discord.gg/PWnxxHcpbr)
 
 # Preview معاينة
 ![1211](https://github.com/SNACKGYG/sqq-emote/assets/97559522/66acc33e-6d09-4b4e-96b3-ba43939f2684)
 
 ### INSTALLATION التثبيت
-1- In your stream animation script, add the files in the | في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
-2- Add the codes below in the specified path | قم بأضافة الأكواد التي في الأسفل في المسار المحدد
+1- In your stream animation script, add the files in the <br> في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف <br>
 
-**Add this to your animations file, and it will most likely be the path | ضيف هاذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
+2- Add the codes below in the specified path <br> قم بأضافة الأكواد التي في الأسفل في المسار المحدد
+
+3- **Add this to your animations file, and it will most likely be the path <br> ضيف هاذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
 
 - Follow the next `qb-emotes > client.lua > AnimationList.lua` folder
 
