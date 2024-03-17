@@ -3,7 +3,7 @@
 [Discord](https://discord.gg/PWnxxHcpbr)
 
 # Preview معاينة
-![Facecam1]([https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png?ex=6608af9e&is=65f63a9e&hm=e9122e0f227e05a51a93bad0047f18b38511c1e52db7256d8c8cef9cbc23ae7d&))
+![1211](https://github.com/SNACKGYG/sqq-emote/assets/97559522/66acc33e-6d09-4b4e-96b3-ba43939f2684)
 
 ### INSTALLATION التثبيت
 1- In your stream animation script, add the files in the | في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
