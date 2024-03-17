@@ -3,7 +3,7 @@
 [Discord](https://discord.gg/PWnxxHcpbr)
 
 # Preview معاينة
-![Facecam1](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png)
+![Facecam1]([https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png?ex=6608af9e&is=65f63a9e&hm=e9122e0f227e05a51a93bad0047f18b38511c1e52db7256d8c8cef9cbc23ae7d&))
 
 ### INSTALLATION التثبيت
 1- In your stream animation script, add the files in the | في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
