@@ -12,9 +12,9 @@
 ### INSTALLATION التثبيت
 1- In your stream animation script, add the files in the <br> في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف <br>
 
-2- Add the codes below in the specified path <br> قم بأضافة الأكواد التي في الأسفل في المسار المحدد
+2- Add the codes below in the specified path <br> قم بأضافة الأكواد في المسار المحدد
 
-3- **Add this to your animations file, and it will most likely be the path <br> ضيف هاذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
+3- **Add this to your animations file, and it will most likely be the path <br> ضيف هذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
 
 - Follow the next `qb-emotes > client.lua > AnimationList.lua` folder
 
