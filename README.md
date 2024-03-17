@@ -1,22 +1,17 @@
 # Emotes
 
+[Discord](https://discord.gg/PWnxxHcpbr)
 
-[شرح التركيب](#emotes)
+# Preview معاينة
+![Facecam1]([https://github.com/SNACKGYG/sqq-postal/assets/97559522/d37b7b21-c66a-497d-9d7d-a68278bc3632](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png)
 
-1- في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
-1- In your stream animation script, add the files in the
-2- قم بأضافة الأكواد التي في الأسفل في المسار المحدد
-2- Add the codes below in the specified path
+### INSTALLATION التثبيت
+1- In your stream animation script, add the files in the | في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
+2- Add the codes below in the specified path | قم بأضافة الأكواد التي في الأسفل في المسار المحدد
 
-**(https://discord.gg/QFJPnxTV) [Discord]**
+**Add this to your animations file, and it will most likely be the path | ضيف هاذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
 
-
-**ضيف هاذا داخل ملف الحركات عندك بالأغلب سيكون المسار**
-**Add this to your animations file, and it will most likely be the path**
-
-```lua
-\qb-emotes\client\AnimationList
-```
+- Follow the next `qb-emotes > client.lua > AnimationList.lua` folder
 
 ```lua
     ["airforce01"] = { 
@@ -56,3 +51,6 @@
         } -- n7
     },
 ```
+
+
+[شرح التركيب](#emotes)
