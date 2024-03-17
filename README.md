@@ -3,7 +3,7 @@
 [Discord](https://discord.gg/PWnxxHcpbr)
 
 # Preview معاينة
-![Facecam1]([https://github.com/SNACKGYG/sqq-postal/assets/97559522/d37b7b21-c66a-497d-9d7d-a68278bc3632](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png)
+![Facecam1](https://cdn.discordapp.com/attachments/871614457703460864/1218719110213537912/1211.png)
 
 ### INSTALLATION التثبيت
 1- In your stream animation script, add the files in the | في سكربت الحركات الخاص بك stream قم بأضافة الملفات الموجودة في ملف
